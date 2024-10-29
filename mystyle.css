@@ -1,0 +1,344 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.google.com/specimen/Josefin+Sans);
+
+#bodyindex {
+    background-size: cover;
+    background-color: rgb(26, 48, 47);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: auto;
+    padding: auto;
+}
+
+#bodyfuture {
+    background-size: cover;
+    background-color: #6b5b41;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: auto;
+    padding: auto;
+}
+
+#bodymyjourney {
+    background-size: cover;
+    background-color: rgb(26, 48, 47);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: auto;
+    padding: auto;
+}
+
+.introd {
+    text-align: right;
+    padding: 50px;
+    font-family: 'Montserrat';
+    font-size: larger;
+    color: white;
+
+}
+
+#intro2 {
+    font-style: italic;
+    font-size: medium;
+}
+
+#me2 {
+    padding: 0;
+    margin: 20px;
+    background-color: white;
+}
+
+#me3 {
+    padding: auto;
+    margin: auto;
+}
+
+#me4 {
+    padding: auto;
+    margin: auto;
+}
+
+#info1 {
+    font-family: 'Josefin+Sans';
+    font-size: large;
+    text-align: left;
+    margin: auto;
+    padding: 100px;
+    font-size: x-large;
+}
+
+#phase2 {
+    font-family: Montserrat;
+    margin: 200px;
+    font-weight: bold;
+
+}
+
+fieldset {
+    color: #8f753b;
+}
+
+legend {
+
+    color: #8f753b;
+    padding: 5px 10px;
+
+}
+
+.ig {
+    color: white;
+    padding: 50px;
+    text-align: right;
+    font-family: 'Josefin+Sans';
+    font-size: x-large;
+
+}
+
+#myaclegend {
+    font-family: 'Josefin+Sans';
+}
+
+#phase3 {
+    font-family: 'Montserrat';
+    padding: 100px;
+}
+
+#me5 {
+    float: right;
+    margin: 50px;
+}
+
+
+.lasttext {
+    font-family: 'Montserrat';
+    padding: 100px;
+}
+
+mark {
+    background-color: #8f753b;
+
+    color: white;
+}
+
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(26, 48, 47);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(145, 118, 59);
+    border-radius: 10px;
+}
+
+#studentinfo {
+    font-family: Montserrat;
+    color: white;
+}
+
+hr {
+    opacity: 10%;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(26, 48, 47);
+    padding: 10px;
+    margin-bottom: 10px;
+    opacity: 90%;
+
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-family: Josefin;
+    font-size: x-large;
+    padding: 10px 15px;
+}
+
+nav a:hover {
+    background-color: #555;
+    transition: background-color 0.3s ease;
+}
+
+
+#myfuture {
+    padding: 30px;
+    font-family: Josefin+Sans;
+    color: white;
+    text-align: center;
+    font-size: xxx-large;
+
+}
+
+.futuretext {
+    color: white;
+    font-family: Montserrat;
+    margin-bottom: 50px;
+
+    p {
+        color: #acacac;
+    }
+}
+
+.futuretext2 {
+    color: white;
+    font-family: Montserrat;
+
+
+
+    h2 {
+        padding-left: 20px;
+
+
+    }
+
+    p {
+        color: #acacac;
+        padding-left: 20px;
+    }
+
+}
+
+#myft1-1 {
+    background-color: rgb(26, 48, 47);
+    padding-right: 40px;
+    padding-left: 40px;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);
+    padding: 25px;
+    text-align: left;
+}
+
+#myft1-2 {
+    background-color: rgb(26, 48, 47);
+    padding-right: 40px;
+    padding-left: 40px;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);
+    padding: 25px;
+    text-align: left;
+}
+
+#myft2-1 {
+    background-color: rgb(26, 48, 47);
+    padding-right: 20px;
+    padding-left: 20px;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);
+    height: 200px;
+    text-align: left;
+}
+
+#myft2-2 {
+    background-color: rgb(26, 48, 47);
+    padding: 20px;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);
+    height: 200px;
+    text-align: left;
+}
+
+.pageindex {
+    font-family: Montserrat;
+}
+
+#myftimg1 {
+    padding-left: 20px
+}
+
+
+.myjourneytext {
+    display: flex;
+    color: white;
+    padding: 30px;
+    margin: 30px;
+    background-color: #8f753b;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.myjourneypic1 {
+    display: flex;
+    color: #8f753b;
+    padding: 30px;
+    margin: 30px;
+    background-color: white;
+    justify-content: space-between;
+
+    img {
+        width: 30%;
+    }
+
+}
+
+.myjourneypic2 {
+    color: #8f753b;
+    padding: 30px;
+    margin: 30px;
+    background-color: white;
+    text-align: center;
+
+    img {
+        width: 80%;
+
+    }
+
+}
+
+.myjourneypic3 {
+    color: #8f753b;
+    padding: 30px;
+    margin: 30px;
+    background-color: white;
+    text-align: center;
+
+    img {
+        width: 70%;
+
+    }
+
+}
+
+
+.myjourneypic4 {
+    color: #8f753b;
+    padding: 30px;
+    margin: 30px;
+    background-color: white;
+    text-align: center;
+
+    img {
+        width: 80%;
+
+    }
+
+}
+
+.myjourneytext div {
+    flex: 1;
+
+}
+
+.myjourneytext img {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+}
+
+
+
+.myjourneytext p {
+    padding-bottom: 0px;
+    font-size: x-large;
+    margin-bottom: 10px;
+}
+
+.myjourneytext h1 {
+    margin-bottom: 15px;
+    font-size: xxx-large;
+
+}
