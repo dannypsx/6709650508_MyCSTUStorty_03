@@ -367,19 +367,16 @@ nav a:hover {
 }
 
 
-@media (max-width: 768px) {
-    .posterofme {
+@media (max-width: 600px) {
+    nav {
         flex-direction: column;
-        align-items: center;
+    }
+    
+    nav a {
+        display: block;
+        padding: 8px;
         text-align: center;
-    }
-
-    .posterofme img {
-        width: 90%;
-        margin-bottom: 15px;
-    }
-
-    #info1 p {
-        font-size: medium;
+        font-size: large;
+        margin: 5px 0;
     }
 }
