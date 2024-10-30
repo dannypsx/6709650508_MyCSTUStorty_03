@@ -379,4 +379,16 @@ nav a:hover {
         font-size: large;
         margin: 5px 0;
     }
+    .introd, .posterofme, .futuretext, .myjourneytext {
+        padding: 10px;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .posterofme img, .futuretext2 img, .myjourneypic1 img, .myjourneypic2 img, .myjourneypic3 img, .myjourneypic4 img {
+        width: 100%;
+        max-width: 350px;
+        margin: 10px auto;
+    }
+
 }
