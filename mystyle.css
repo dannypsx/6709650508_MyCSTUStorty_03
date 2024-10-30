@@ -412,5 +412,15 @@ nav a:hover {
         text-align: center;
     }
 
-  
+    .parallax {
+        background-attachment: scroll;
+        background-size: cover;
+    }
+
+    #me5 {
+        width: 100%;
+        max-width: 350px;
+        height: auto;
+        margin: 0 auto;
+    }
 }
