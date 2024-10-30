@@ -343,7 +343,6 @@ nav a:hover {
 
 }
 
-/* Default styling for .posterofme (desktop view) */
 .posterofme {
     display: flex;
     justify-content: space-between;
@@ -353,13 +352,13 @@ nav a:hover {
 }
 
 .posterofme img {
-    width: 75%; /* Desktop view image scale */
+    width: 75%;
     max-width: 500px;
     height: auto;
-    border-radius: 10px;
+
 }
 
-/* Styling for the text section */
+
 #info1 {
     font-family: 'Josefin Sans';
     color: white;
@@ -376,7 +375,7 @@ nav a:hover {
     }
 
     .posterofme img {
-        width: 90%; 
+        width: 90%;
         margin-bottom: 15px;
     }
 
